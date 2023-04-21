@@ -13,7 +13,8 @@
 
 # Introdução
 
-![arduino](https://user-images.githubusercontent.com/96671069/233725908-55f8ea45-29dc-433b-97fd-c7a07d1633d3.png)
+![arduino](https://user-images.githubusercontent.com/96671069/233734244-27d83f2b-9994-4e1a-8371-666434143128.png)
+
 
 Olá! Este é o repositório onde você encontrará todos os projetos que desenvolvi utilizando a plataforma Arduino. Aqui você encontrará desde projetos simples até projetos mais complexos que envolvem sensores, displays, comunicação sem fio, entre outras coisas. Espero que esses projetos possam ser úteis para você em seus próprios projetos ou apenas para inspirá-lo em novas ideias. Sinta-se à vontade para explorar e deixar sugestões ou dúvidas nos comentários dos projetos. Obrigado por visitar e espero que aproveite!
 
