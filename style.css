@@ -61,7 +61,7 @@ section{
 .portfolio-container .portfolio-box {
     position: relative;
     border-radius: 2rem;
-    box-shadow: 0 0 1rem var(--bg-color);
+    box-shadow: 0 0 1rem var(--main-color);
     overflow: hidden;
     display: flex;
 }
