@@ -1,20 +1,30 @@
 # ArduinoProjects
 
-[Introdução](#introdução)
+<p align="center">
+  <span style="font-size:larger;">
+    <strong>Você pode acessar a demonstração do projeto no Github Pages:</strong>
+  </span> 
+  <br>
+  <a href="https://lernencode.github.io/ArduinoProjects/" target="_blank">
+    <span style="font-size:larger;">https://lernencode.github.io/ArduinoProjects/</span>
+  </a>
+</p>
 
-[Motor com reversão](#motor-com-reversão)
 
-[LCD Game](#lcd-game)
-
-[Controlador de nivel](#controlador-de-nivel)
-
-[Porta de segurança](#porta-de-segurança)
-
-# introdução
+# Introdução
 
 ![arduino](https://user-images.githubusercontent.com/96671069/233725908-55f8ea45-29dc-433b-97fd-c7a07d1633d3.png)
 
 Olá! Este é o repositório onde você encontrará todos os projetos que desenvolvi utilizando a plataforma Arduino. Aqui você encontrará desde projetos simples até projetos mais complexos que envolvem sensores, displays, comunicação sem fio, entre outras coisas. Espero que esses projetos possam ser úteis para você em seus próprios projetos ou apenas para inspirá-lo em novas ideias. Sinta-se à vontade para explorar e deixar sugestões ou dúvidas nos comentários dos projetos. Obrigado por visitar e espero que aproveite!
+
+
+## Índice
+
+- [Introdução](#introdução)
+- [Motor com reversão](#motor-com-reversão)
+- [LCD Game](#lcd-game)
+- [Controlador de nível](#controlador-de-nivel)
+- [Porta de segurança](#porta-de-segurança)
 
 # Motor com reversão 
 
